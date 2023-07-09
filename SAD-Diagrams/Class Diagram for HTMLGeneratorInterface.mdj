@@ -1,0 +1,1158 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true
+				}
+			]
+		},
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAGIJHv8ifdvNGg=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model1",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAGIJHv8ivdwicw=",
+					"_parent": {
+						"$ref": "AAAAAAGIJHv8ifdvNGg="
+					},
+					"name": "ClassDiagram1",
+					"ownedViews": [
+						{
+							"_type": "UMLPackageView",
+							"_id": "AAAAAAGIJHwfQfd27QA=",
+							"_parent": {
+								"$ref": "AAAAAAGIJHv8ivdwicw="
+							},
+							"model": {
+								"$ref": "AAAAAAGIJHwfQPd0lyo="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAGIJHwfQfd3maM=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHwfQfd27QA="
+									},
+									"model": {
+										"$ref": "AAAAAAGIJHwfQPd0lyo="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIJHwfQfd4S6w=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHwfQfd3maM="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIJHwfQfd5MwA=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHwfQfd3maM="
+											},
+											"font": "Arial;13;1",
+											"left": 269,
+											"top": 174,
+											"width": 623,
+											"height": 13,
+											"text": "Afetbilgi"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIJHwfQfd6dEs=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHwfQfd3maM="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"width": 80.9072265625,
+											"height": 13,
+											"text": "(from Model1)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIJHwfQfd72EE=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHwfQfd3maM="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 264,
+									"top": 167,
+									"width": 633,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGIJHwfQfd4S6w="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAGIJHwfQfd5MwA="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAGIJHwfQfd6dEs="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGIJHwfQfd72EE="
+									}
+								}
+							],
+							"containedViews": [
+								{
+									"$ref": "AAAAAAGIJHzZ/feTnaw="
+								}
+							],
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 264,
+							"top": 152,
+							"width": 633,
+							"height": 401,
+							"nameCompartment": {
+								"$ref": "AAAAAAGIJHwfQfd3maM="
+							}
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGIJHzZ/feTnaw=",
+							"_parent": {
+								"$ref": "AAAAAAGIJHv8ivdwicw="
+							},
+							"model": {
+								"$ref": "AAAAAAGIJHzZ/feRImE="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAGIJHzZ/feUw54=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feTnaw="
+									},
+									"model": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIJHzZ/feVv3U=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/feUw54="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -144,
+											"top": -336,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIJHzZ/feW2yg=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/feUw54="
+											},
+											"font": "Arial;13;1",
+											"left": 349,
+											"top": 215,
+											"width": 487,
+											"height": 13,
+											"text": "HTMLGeneratorInterface"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIJHzZ/feX9sw=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/feUw54="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -144,
+											"top": -336,
+											"width": 84.51904296875,
+											"height": 13,
+											"text": "(from Afetbilgi)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIJHzZ/feYpIQ=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/feUw54="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -144,
+											"top": -336,
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 344,
+									"top": 208,
+									"width": 497,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGIJHzZ/feVv3U="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAGIJHzZ/feW2yg="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAGIJHzZ/feX9sw="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGIJHzZ/feYpIQ="
+									}
+								},
+								{
+									"_type": "UMLAttributeCompartmentView",
+									"_id": "AAAAAAGIJHzZ/feZoCE=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feTnaw="
+									},
+									"model": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"font": "Arial;13;0",
+									"left": 344,
+									"top": 233,
+									"width": 497,
+									"height": 10
+								},
+								{
+									"_type": "UMLOperationCompartmentView",
+									"_id": "AAAAAAGIJHzZ/veaGmA=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feTnaw="
+									},
+									"model": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"subViews": [
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJIDacffCTFk=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJIDabPe/DNg="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 248,
+											"width": 487,
+											"height": 13,
+											"text": "+get_active_hospitals_page(city: String): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJIPDYvfPCWY=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJIPDXvfMrt8="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 263,
+											"width": 487,
+											"height": 13,
+											"text": "+get_open_pharmacies_page(city: String): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJIbvGffdE+U=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJIbvFffak1w="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 278,
+											"width": 487,
+											"height": 13,
+											"text": "+get_other_dotations_page(): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJIkOKffrzOA=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJIkOJffoGxk="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 293,
+											"width": 487,
+											"height": 13,
+											"text": "+get_donations_page(city: String): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJImC1/f2qyc=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJImC1PfzWX4="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 308,
+											"width": 487,
+											"height": 13,
+											"text": "+get_digital_soliditary_campaigns_page(city: String): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJIqWGPgHeGs=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJIqWFPgERIk="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 323,
+											"width": 487,
+											"height": 13,
+											"text": "+get_veterinarians_page(city: String): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJIuZ1vgW1i8=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJIuZ0fgT5wA="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 338,
+											"width": 487,
+											"height": 13,
+											"text": "+get_container_pharmacies_page(city: String): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJIwgxPghPwM=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJIwgwPgeWw0="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 353,
+											"width": 487,
+											"height": 13,
+											"text": "+get_useful_articles_page(): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJIyZLfgqetg=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJIyZKfgnpXM="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 368,
+											"width": 487,
+											"height": 13,
+											"text": "+get_useful_links_page(): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJIzSn/gz85U=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJIzSm/gwjYg="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 383,
+											"width": 487,
+											"height": 13,
+											"text": "+get_important_phone_numbers_page(): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJI1llPg8AYo=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJI1lkPg5cDI="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 398,
+											"width": 487,
+											"height": 13,
+											"text": "+get_gas_stations_page(city: String): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJRiTkvhHtao=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJRiTjvhEfEc="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 413,
+											"width": 487,
+											"height": 13,
+											"text": "+get_food_distribution_centers_page(city: String): HTML_Document",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJRkAQPhSXw0=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJRkAPPhPFk4="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 428,
+											"width": 487,
+											"height": 13,
+											"text": "+get_transportation_aid_page(city: String): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJRmie/hdghM=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJRmiePhaY+k="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 443,
+											"width": 487,
+											"height": 13,
+											"text": "+get_places_to_stay_page(city: String): HTMLDocuement",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJRoY4fhoyqo=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJRoY3fhlVLw="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 458,
+											"width": 487,
+											"height": 13,
+											"text": "+get_safe_gathering_spaces_page(city: String): HTML_Document",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJRqQX/hzErk=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJRqQXPhwyNM="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 473,
+											"width": 487,
+											"height": 13,
+											"text": "+get_evacuation_points_page(city: String): HTMLDocuemnt",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJRsvnPh+ooo=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJRsvmPh7RGY="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 488,
+											"width": 487,
+											"height": 13,
+											"text": "+get_stem_cell_donation_points_page(city: String): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJTlpozJE3go=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJTlpmzJBe/I="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 503,
+											"width": 487,
+											"height": 13,
+											"text": "+get_main_page(): HTMLDocument",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIJT31wDJkepw=",
+											"_parent": {
+												"$ref": "AAAAAAGIJHzZ/veaGmA="
+											},
+											"model": {
+												"$ref": "AAAAAAGIJT31tjJhEmA="
+											},
+											"font": "Arial;13;0",
+											"left": 349,
+											"top": 518,
+											"width": 487,
+											"height": 13,
+											"text": "+get_city_page(city: String): HTMLDocument",
+											"horizontalAlignment": 0
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 344,
+									"top": 243,
+									"width": 497,
+									"height": 293
+								},
+								{
+									"_type": "UMLReceptionCompartmentView",
+									"_id": "AAAAAAGIJHzZ/vebNSM=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feTnaw="
+									},
+									"model": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": -72,
+									"top": -216,
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLTemplateParameterCompartmentView",
+									"_id": "AAAAAAGIJHzZ/vecS9Q=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feTnaw="
+									},
+									"model": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": -72,
+									"top": -216,
+									"width": 10,
+									"height": 10
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGIJHwfQfd27QA="
+							},
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 344,
+							"top": 208,
+							"width": 497,
+							"height": 328,
+							"nameCompartment": {
+								"$ref": "AAAAAAGIJHzZ/feUw54="
+							},
+							"attributeCompartment": {
+								"$ref": "AAAAAAGIJHzZ/feZoCE="
+							},
+							"operationCompartment": {
+								"$ref": "AAAAAAGIJHzZ/veaGmA="
+							},
+							"receptionCompartment": {
+								"$ref": "AAAAAAGIJHzZ/vebNSM="
+							},
+							"templateParameterCompartment": {
+								"$ref": "AAAAAAGIJHzZ/vecS9Q="
+							}
+						}
+					]
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGIJHwfQPd0lyo=",
+					"_parent": {
+						"$ref": "AAAAAAGIJHv8ifdvNGg="
+					},
+					"name": "Afetbilgi",
+					"ownedElements": [
+						{
+							"_type": "UMLClass",
+							"_id": "AAAAAAGIJHzZ/feRImE=",
+							"_parent": {
+								"$ref": "AAAAAAGIJHwfQPd0lyo="
+							},
+							"name": "HTMLGeneratorInterface",
+							"operations": [
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJIDabPe/DNg=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_active_hospitals_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJIMv/ffIwf0=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIDabPe/DNg="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJIMv/ffJD3Q=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIDabPe/DNg="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJIPDXvfMrt8=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_open_pharmacies_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJIUzJ/fVI8s=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIPDXvfMrt8="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJIUzJ/fWgfc=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIPDXvfMrt8="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJIbvFffak1w=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_other_dotations_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJIdQEPfhJvc=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIbvFffak1w="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJIkOJffoGxk=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_donations_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJIls8/fvTUo=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIkOJffoGxk="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJIls8/fwpEU=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIkOJffoGxk="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJImC1PfzWX4=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_digital_soliditary_campaigns_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJIpAVPf8Eiw=",
+											"_parent": {
+												"$ref": "AAAAAAGIJImC1PfzWX4="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJIpAVPf9xqo=",
+											"_parent": {
+												"$ref": "AAAAAAGIJImC1PfzWX4="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJIqWFPgERIk=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_veterinarians_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJItmYfgPN8I=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIqWFPgERIk="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJItmYfgQzBc=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIqWFPgERIk="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJIuZ0fgT5wA=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_container_pharmacies_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJIv4g/gaQrw=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIuZ0fgT5wA="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJIv4g/gbmTc=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIuZ0fgT5wA="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJIwgwPgeWw0=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_useful_articles_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJIxZ0/gl0w8=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIwgwPgeWw0="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJIyZKfgnpXM=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_useful_links_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJIzJBvguLcw=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIyZKfgnpXM="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJIzSm/gwjYg=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_important_phone_numbers_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJI1PwPg3gh8=",
+											"_parent": {
+												"$ref": "AAAAAAGIJIzSm/gwjYg="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJI1lkPg5cDI=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_gas_stations_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJI2qmPhAFkc=",
+											"_parent": {
+												"$ref": "AAAAAAGIJI1lkPg5cDI="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJI2qmPhBvwM=",
+											"_parent": {
+												"$ref": "AAAAAAGIJI1lkPg5cDI="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJRiTjvhEfEc=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_food_distribution_centers_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJRjyyvhLNuM=",
+											"_parent": {
+												"$ref": "AAAAAAGIJRiTjvhEfEc="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJRjyyvhM3ZM=",
+											"_parent": {
+												"$ref": "AAAAAAGIJRiTjvhEfEc="
+											},
+											"type": "HTML_Document",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJRkAPPhPFk4=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_transportation_aid_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJRmULPhW3Yk=",
+											"_parent": {
+												"$ref": "AAAAAAGIJRkAPPhPFk4="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJRmULfhXIHA=",
+											"_parent": {
+												"$ref": "AAAAAAGIJRkAPPhPFk4="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJRmiePhaY+k=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_places_to_stay_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJRoKzPhhyp0=",
+											"_parent": {
+												"$ref": "AAAAAAGIJRmiePhaY+k="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJRoKzfhiBiU=",
+											"_parent": {
+												"$ref": "AAAAAAGIJRmiePhaY+k="
+											},
+											"type": "HTMLDocuement",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJRoY3fhlVLw=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_safe_gathering_spaces_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJRp4J/hswCY=",
+											"_parent": {
+												"$ref": "AAAAAAGIJRoY3fhlVLw="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJRp4J/htxoo=",
+											"_parent": {
+												"$ref": "AAAAAAGIJRoY3fhlVLw="
+											},
+											"type": "HTML_Document",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJRqQXPhwyNM=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_evacuation_points_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJRrg7/h3qwE=",
+											"_parent": {
+												"$ref": "AAAAAAGIJRqQXPhwyNM="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJRrg7/h4F8I=",
+											"_parent": {
+												"$ref": "AAAAAAGIJRqQXPhwyNM="
+											},
+											"type": "HTMLDocuemnt",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJRsvmPh7RGY=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_stem_cell_donation_points_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJRuK+PiCaoQ=",
+											"_parent": {
+												"$ref": "AAAAAAGIJRsvmPh7RGY="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJRuK+PiDd8U=",
+											"_parent": {
+												"$ref": "AAAAAAGIJRsvmPh7RGY="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJTlpmzJBe/I=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_main_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJTmlyTJIe9Q=",
+											"_parent": {
+												"$ref": "AAAAAAGIJTlpmzJBe/I="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIJT31tjJhEmA=",
+									"_parent": {
+										"$ref": "AAAAAAGIJHzZ/feRImE="
+									},
+									"name": "get_city_page",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJT42bzJoCmY=",
+											"_parent": {
+												"$ref": "AAAAAAGIJT31tjJhEmA="
+											},
+											"name": "city",
+											"type": "String"
+										},
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAGIJT42bzJpQwE=",
+											"_parent": {
+												"$ref": "AAAAAAGIJT31tjJhEmA="
+											},
+											"type": "HTMLDocument",
+											"direction": "return"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
